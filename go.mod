@@ -9,10 +9,8 @@ require (
 	github.com/coreos/go-semver v0.3.0
 	github.com/elazarl/goproxy v0.0.0-20190911111923-ecfe977594f1 // indirect
 	github.com/emicklei/go-restful v2.10.0+incompatible
-	github.com/emicklei/go-restful-openapi v1.2.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-logr/logr v0.4.0
-	github.com/go-openapi/spec v0.19.3
 	github.com/golang/snappy v0.0.2
 	github.com/google/uuid v1.1.2
 	github.com/kelseyhightower/envconfig v1.4.0
